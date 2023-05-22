@@ -1,6 +1,6 @@
 {
-  "homepage": "https://jameskabbes.github.io/react-test",
   "name": "react-test",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
